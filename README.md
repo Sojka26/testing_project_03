@@ -31,3 +31,10 @@ Testy ověřují, že:
 ```bash
 pip install playwright pytest
 playwright install
+
+
+Můžeš použít playwright codegen, který funguje s pytest
+playwright codegen https://engeto.cz/
+Ten ti otevře prohlížeč a zároveň generuje kód interakcí v reálném čase – skvělé pro ladění a tvorbu selektorů.
+
+
